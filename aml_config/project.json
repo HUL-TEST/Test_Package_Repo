@@ -1,0 +1,4 @@
+{
+    "Id": "test_exp_1",
+    "Scope": "/subscriptions/df01c209-72c1-4036-a869-ae57109d80a6/resourceGroups/TestResource1/providers/Microsoft.MachineLearningServices/workspaces/ml-test1/projects/test_exp_1"
+}
